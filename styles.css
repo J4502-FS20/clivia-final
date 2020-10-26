@@ -15,7 +15,7 @@ nav {
 
 h1 {
     font-family: 'Libre Baskerville', serif;
-    font-size: 36px;
+    font-size: 50px;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -59,10 +59,10 @@ nav a:hover{
  color: white;
 }
 
-#joke {
-    background-color: white;
+#author {
+    background-color:#83A6CF;
     padding: 15px;
-    max-width: 500px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
@@ -70,12 +70,9 @@ nav a:hover{
 
 }
 
-#joke p {
-    font-family: 'Patrick Hand', cursive;
-    font-size: 15px;
-}
 
-#joke h2 {
+
+#author h2 {
     font-weight: bold;
     font-family: 'Patrick Hand', cursive;
     font-size: 25px;
@@ -83,6 +80,11 @@ nav a:hover{
 
 span{
   font-weight: bold;
+}
+
+#author p {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 15px;
 }
 
 #clivia-photo img {
