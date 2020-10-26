@@ -30,7 +30,7 @@ main p {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: #83A6CF;
+    color: #82490D;
     font-family:  'Quicksand', sans-serif;
 }
 
@@ -38,7 +38,7 @@ a {
 
 a:hover {
     font-weight: bold;
-    background-color: #83A6CF;
+    background-color: #82490D;
     color: white;
     opacity: 0.7;
 }
