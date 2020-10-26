@@ -93,7 +93,7 @@ span{
 #students-photo img{
   border: none;
   width: 70%;
-  min-width: 4000px;
+  min-width: 400px;
   max-width: 800px;
 }
 ul {
