@@ -44,7 +44,7 @@ a:hover {
 }
 
 nav a {
-    color:#17AF92;
+    color:#82490D;
     text-decoration: none;
     font-weight: bold;
     font-size: 25px;
@@ -98,4 +98,7 @@ span{
 }
 ul {
     list-style-type: none;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-around;
 }
