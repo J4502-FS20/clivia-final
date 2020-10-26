@@ -14,24 +14,25 @@ nav {
   }
 
 h1 {
-    font-family:  'Vollkorn', serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 36px;
+    font-weight: bold;
     text-transform: uppercase;
 }
 
 main p {
-    font-family:  'Quicksand', sans-serif;
-    font-weight: bold;
+    font-family: 'Libre Baskerville', serif;
     font-size: 25px;
 }
 
 
 
 a {
+    font-family: 'Crimson Text', serif;
     text-decoration: none;
     font-weight: bold;
     color: #82490D;
-    font-family:  'Quicksand', sans-serif;
+
 }
 
 
@@ -49,7 +50,7 @@ nav a {
     font-weight: bold;
     font-size: 25px;
     text-transform: uppercase;
-    font-family:  'Quicksand', sans-serif
+    font-family: 'Crimson Text', serif;
   }
 
 nav a:hover{
@@ -70,13 +71,13 @@ nav a:hover{
 }
 
 #joke p {
-    font-family: 'Grandstander', cursive;
+    font-family: 'Patrick Hand', cursive;
     font-size: 15px;
 }
 
 #joke h2 {
     font-weight: bold;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Patrick Hand', cursive;
     font-size: 25px;
 }
 
