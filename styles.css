@@ -102,8 +102,8 @@ span{
 ul {
     list-style-type: none;
     text-transform: uppercase;
-    display: flex;
-    justify-content: space-around;
+    display: flex ;
+    justify-content:space-around;
 }
 #basic p {
     font-family: 'Crimson Text', serif;
@@ -147,10 +147,10 @@ background-color: #eee;
 text-align: center;
 }
 .places img {
-     display: block;
       border: none;
       width: 95%;
       max-width: 250px;
+      min-height: 150px
   }
 .places{
   display: block;
