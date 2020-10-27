@@ -129,6 +129,11 @@ ul {
   max-width: 600px;
   min-height:250px;
 }
+.story_text{margin: 4%;
+padding: 2%;
+border-color: #83A6CF;
+  border-style: solid;}
+
 .story_name{
   font-family: 'Crimson Text', serif;
 font-size: 30px;
