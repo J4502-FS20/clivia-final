@@ -124,8 +124,9 @@ ul {
 .story_picture img{
   border: none;
   width: 50%;
-  min-width: 450px;
+  min-width: 500px;
   max-width: 600px;
+  min-height:250px;
 }
 .story_name{
   font-family: 'Crimson Text', serif;
