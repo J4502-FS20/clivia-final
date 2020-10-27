@@ -21,7 +21,7 @@ h1 {
 }
 
 main p {
-    font-family: 'Libre Baskerville', serif;
+      font-family: 'Crimson Text', serif;
     font-size: 25px;
 }
 
@@ -105,3 +105,82 @@ ul {
     display: flex;
     justify-content: space-around;
 }
+#basic p {
+    font-family: 'Crimson Text', serif;
+    font-size: 25px;
+}
+#major p {
+      font-family: 'Crimson Text', serif;
+    font-size: 25px;
+}
+
+
+.data img{
+      border: none;
+      width: 50%;
+      min-width: 450px;
+      max-width: 600px;
+}
+.story_picture img{
+  border: none;
+  width: 50%;
+  min-width: 450px;
+  max-width: 600px;
+}
+.story_name{
+  font-family: 'Crimson Text', serif;
+font-size: 30px;
+
+}
+.story_description{
+  font-family: 'Crimson Text', serif;
+font-size: 25px;
+}
+.places_container{
+  width: 96%;
+  margin: 1%;
+  padding: 1%;
+  display: block;
+  float: left;
+background-color: #eee;
+text-align: center;
+}
+.places img {
+     display: block;
+      border: none;
+      width: 95%;
+      max-width: 250px;
+  }
+.places{
+  display: block;
+  margin: auto;
+}
+.places_text{
+  display: block;
+  width: 98%;
+  margin: 1%;
+  float: left;
+}
+.places_name{
+    display: block;
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  margin:auto;
+}
+.place_description{
+    display: block;
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+  margin:auto;
+}
+@media only screen and (min-width: 450px) {
+    .places_container{
+        width: 46%;
+        min-height: 410px;
+    }
+}
+@media only screen and (min-width: 675px) {
+  .scotus_holder {
+    width: 21%;
+    min-height: 383px;
+  }
