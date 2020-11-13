@@ -1,10 +1,10 @@
 body {
-    background-color: #A7F8F5;
+    background-color: #EEF0F2;
     text-align: center;
 }
 
 nav {
-    background-color:#83A6CF;
+    background-color:#424455;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 20px;
@@ -45,7 +45,7 @@ a:hover {
 }
 
 nav a {
-    color:#82490D;
+    color:#EEF0F2;
     text-decoration: none;
     font-weight: bold;
     font-size: 25px;
@@ -60,7 +60,7 @@ nav a:hover{
 }
 
 #author {
-    background-color:#83A6CF;
+    background-color:#EEF0F2;
     padding: 15px;
     max-width: 800px;
     margin-left: auto;
@@ -84,7 +84,7 @@ span{
 
 #author p {
     font-family: 'Patrick Hand', cursive;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 #clivia-photo img {
