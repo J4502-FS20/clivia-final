@@ -31,7 +31,7 @@ a {
     font-family: 'Crimson Text', serif;
     text-decoration: none;
     font-weight: bold;
-    color: #82490D;
+    color: #4563A7;
 
 }
 
@@ -39,7 +39,7 @@ a {
 
 a:hover {
     font-weight: bold;
-    background-color: #82490D;
+    background-color: #4563A7;
     color: white;
     opacity: 0.7;
 }
@@ -55,8 +55,8 @@ nav a {
 
 nav a:hover{
   font-weight: bold;
- background-color: #82490D;
- color: white;
+ background-color: white;
+ color: black;
 }
 
 #author {
@@ -129,10 +129,14 @@ ul {
   max-width: 600px;
   min-height:250px;
 }
-.story_text{margin: 4%;
-padding: 2%;
-border-color: #83A6CF;
-  border-style: solid;}
+.story_text{margin-top: 10px;
+  margin-bottom: 50px;
+padding-left: 10px;
+padding-right: 10px;
+margin-left: 80px;
+margin-right: 80px;
+background-color: white;
+}
 
 .story_name{
   font-family: 'Crimson Text', serif;
@@ -144,13 +148,17 @@ font-size: 30px;
 font-size: 25px;
 }
 .places_container{
-  width: 96%;
-  margin: 1%;
-  padding: 1%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   display: block;
   float: left;
-background-color: #eee;
 text-align: center;
+  background-color: white;
 }
 .places img {
       border: none;
@@ -164,9 +172,11 @@ text-align: center;
 }
 .places_text{
   display: block;
-  width: 98%;
-  margin: 1%;
-  float: left;
+  width: 58%;
+  margin-top: 10px;
+  margin-left:auto;
+  margin-right: auto;
+
 }
 .places_name{
     display: block;
