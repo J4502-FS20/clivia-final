@@ -118,7 +118,7 @@ span{
 #students-photo img{
   border: none;
   width: 70%;
-  min-width: 400px;
+  min-width: 300px;
   max-width: 70%;
 }
 ul {
@@ -141,13 +141,13 @@ ul {
 .data img{
       border: none;
       width: 50%;
-      min-width: 450px;
+      min-width: 300px;
       max-width: 70%;
 }
 .story_picture img{
   border: none;
   width: 50%;
-  min-width: 450px;
+  min-width: 300px;
   max-width: 70%;
   min-height:250px;
 }
