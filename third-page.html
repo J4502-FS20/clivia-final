@@ -9,6 +9,7 @@
   <meta name="keywords" content="Clivia Liang, J4502, Journalism"/>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&family=Libre+Baskerville:wght@400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="styles.css">
+<script src="photo.js" defer></script>
 </head>
 
 <body>
@@ -22,9 +23,25 @@
 <main>
 <p>There are multipled stories for you to read</p>
 <div class="story_container">
-  <div class="story_picture">
-  <img src="image/cat1.JPG" alt="Xiao Lan with her cat"/>
-  </div>
+  <section class="imageGallery" id="myGallery">
+  	<section class="imageHolder hideThisDiv">
+  	   <img src="image/cat1.JPG" alt="A still from 'Star Trek: The Original Series.'">
+  	   <figcaption>A still from 'Star Trek: The Original Series.'</figcaption>
+  	</section>
+  	<section class="imageHolder hideThisDiv">
+  	   <img src="image/cat2.JPG" alt="The cast of 'Brooklyn Nine-Nine.'">
+  	   <figcaption>The cast of 'Brooklyn Nine-Nine.'</figcaption>
+  	</section>
+  	<section class="imageHolder hideThisDiv">
+  	   <img src="image/cat3.JPG" alt="A scene from 'Gilligan's Island.'">
+  	   <figcaption>A scene from 'Gilligan's Island.'</figcaption>
+  	</section>
+  	<section class="button_holder">
+  		<button id="button_previous">Previous</button>
+  		<button id="button_random">Random</button>
+  		<button id="button_next">Next</button>
+  	</section>
+  </section>
  <div class="story_text">
     <h2 class="story_name">Cat is Her Anidote</h2>
   <p class="story_description">
