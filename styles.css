@@ -128,11 +128,15 @@ ul {
     justify-content:space-around;
     flex-wrap: wrap;
 }
-#basic p {
+#basic p {border-top: 50px;
     font-family: 'Crimson Text', serif;
     font-size: 25px;
 }
-#major p {
+#undergraduate p{border-top: 50px;
+      font-family: 'Crimson Text', serif;
+    font-size: 25px;}
+
+#major p {border-top: 50px;
       font-family: 'Crimson Text', serif;
     font-size: 25px;
 }
