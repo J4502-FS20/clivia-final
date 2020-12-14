@@ -143,13 +143,15 @@ ul {
 .imageGallery {
   display: flex;
   flex-direction: column;
-  width: 100%;
-  max-width: 500px;
+  margin:auto;
+  width: 80%;
 }
 
 .imageHolder {
   margin: 20px 50px;
-  font-family: "Helvetica", "Arial", sans-serif;
+
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
 }
 
 .imageHolder caption {
@@ -157,15 +159,23 @@ ul {
 }
 .imageHolder img{
   border: none;
-  width: 80%;
-  min-width: 500px;
+  width: 70%;
+  min-width: 300px;
   max-width: 90%;
-  min-height:200px;
+  min-height:100px;
 }
 .button_holder {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
+}
+#button_previous{color:white;
+background-color:#4563A7;}
+#button_next{color:white;
+background-color:#4563A7;
+}
+#button_random{color:white;
+background-color:#4563A7;
 }
 
 .hideThisDiv {
@@ -176,9 +186,12 @@ ul {
   border: none;
   width: 50%;
   min-width: 300px;
-  max-width: 70%;
+  max-width: 80%;
   min-height:200px;
 }
+.story_caption{font-family: 'Crimson Text', serif;
+font-size: 20px;}
+
 .story_text{margin-top: 10px;
   margin-bottom: 50px;
 padding-left: 10px;
