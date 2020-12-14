@@ -159,8 +159,8 @@ ul {
 }
 .imageHolder img{
   border: none;
-  width: 84%;
-  min-width: 70%;
+  width: 90%;
+  min-width: 86%;
   max-width: 500px;
   min-height:100px;
 }
@@ -184,10 +184,10 @@ background-color:#4563A7;
 
 .story_picture img{
   border: none;
-  width: 50%;
-  min-width: 300px;
+  width: 60%;
+  min-width: 60%;
   max-width: 80%;
-  min-height:200px;
+  min-height:100px;
 }
 .story_caption{font-family: 'Crimson Text', serif;
 font-size: 20px;}
