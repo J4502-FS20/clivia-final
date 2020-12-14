@@ -40,19 +40,20 @@ a {
     font-family: 'Crimson Text', serif;
     text-decoration: none;
     font-weight: bold;
-    color: #4563A7;
+    color: #32477B;
 
 }
 
 #indicate{
   font-weight: bold;
-  background-color: white;
-  color: black;
+  background-color:#EEF0F2;
 }
+#indicate a{color:black;
 
+}
 a:hover {
     font-weight: bold;
-    background-color: #4563A7;
+    background-color: #32477B;
     color: white;
     opacity: 0.7;
 }
@@ -107,12 +108,12 @@ span{
   font-family:'Patrick Hand', cursive;
   text-decoration: none;
   font-weight: bold;
-  color: #4563A7;
+  color: #32477B;
 }
 
 #author a:hover{
   font-weight: bold;
-  background-color: #4563A7;
+  background-color: #32477B;
   color: white;
   opacity: 0.7;
 }
@@ -177,12 +178,12 @@ ul {
   justify-content: space-around;
 }
 #button_previous{color:white;
-background-color:#4563A7;}
+background-color:#32477B;}
 #button_next{color:white;
-background-color:#4563A7;
+background-color:#32477B;
 }
 #button_random{color:white;
-background-color:#4563A7;
+background-color:#32477B;
 }
 
 .hideThisDiv {
