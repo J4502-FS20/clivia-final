@@ -16,4 +16,4 @@ var days = hours/24;
 
 
 
-timeDiv.innerHTML += '<p>Today is ' + today + '</p><p>It has been ' + days + ' days since MU first suspended class due to the pandemic in spring semester.</p>';
+timeDiv.innerHTML += '<p>Now is ' + today + '</p><p>It has been ' + days + ' days since MU first suspended class due to the pandemic in spring semester.</p>';
